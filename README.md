@@ -1,5 +1,4 @@
 # Huyen_Speaking_101-200
-<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
